@@ -1,0 +1,32 @@
+{
+  "collectionName": "components_layout_experiences",
+  "info": {
+    "displayName": "experiences",
+    "icon": "handshake",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "location": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "richtext"
+    },
+    "promote": {
+      "type": "string"
+    },
+    "begin": {
+      "type": "date",
+      "required": true
+    },
+    "end": {
+      "type": "date"
+    }
+  }
+}

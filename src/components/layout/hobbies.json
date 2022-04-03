@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_layout_hobbies",
+  "info": {
+    "displayName": "hobbies",
+    "icon": "football-ball",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "content": {
+      "type": "richtext"
+    }
+  }
+}

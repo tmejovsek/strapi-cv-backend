@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_layout_volunteerings",
+  "info": {
+    "displayName": "volunteering",
+    "icon": "book-medical"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "location": {
+      "type": "string"
+    },
+    "date": {
+      "type": "string"
+    },
+    "content": {
+      "type": "richtext"
+    }
+  }
+}

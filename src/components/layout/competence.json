@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_layout_competences",
+  "info": {
+    "displayName": "competence",
+    "icon": "box-open"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "content": {
+      "type": "richtext"
+    }
+  }
+}
